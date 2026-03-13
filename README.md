@@ -64,18 +64,3 @@ python run_fratbench.py
 ```
 
 The script validates all API connections before starting, supports resume on interruption, and outputs results to CSV.
-
-## Citation
-
-```bibtex
-@article{wang2026fratbench,
-  title={FratBench: Measuring Social Calibration Failure in Frontier Language Models},
-  author={Wang, Richard},
-  year={2026},
-  note={Preprint}
-}
-```
-
-## License
-
-The benchmark questions, evaluation script, and paper are released for research use.
