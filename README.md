@@ -31,7 +31,7 @@ A human panel (n=12, male, ages 19–23) scores 87.3%. Thirteen frontier models 
 - `fratbench_public_questions.md` — 15 of 53 questions (publicly released subset)
 - `run_fratbench.py` — Evaluation script used to run all 13 models
 
-The full 53-question benchmark is available on request for independent verification.
+For the full 53-question benchmark, please contact me at rwang859@uwo.ca.
 
 ## Key Findings
 
