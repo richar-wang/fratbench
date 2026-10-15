@@ -23,6 +23,18 @@ A human panel (n=12, male, ages 19-23) scores 87.3%. Thirteen frontier models fr
 | GPT-5.4 Thinking | 8.7 | 11.3 |
 | DeepSeek V3.2 Reasoner | 7.1 | 11.0 |
 
+## October 2026 update
+
+Additional single-pass results on the same 53 questions under each prompt, run through OpenRouter with provider-default reasoning and sampling and a 2,048-token output cap:
+
+| Model | Neutral % | Persona % |
+|---|---|---|
+| Claude Opus 5.5 | 28.3 | 35.8 |
+| Muse Wonder | 17.0 | 50.9 |
+| Gemini 4 Argon | 20.8 | 66.0 |
+
+All 318 responses were recorded, with no refusals or truncated responses. These are one-pass follow-up results; the original study is reported above and in the paper.
+
 ## Findings
 
 - Every OpenAI model scores below 25% random chance in neutral mode
